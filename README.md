@@ -1,4 +1,4 @@
-# ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá, meu nome é Enrique. Atualmente, curso Análise e Desenvolvimento de Sistemas.
+# ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá, meu nome é Enrique. Atualmente, curso Análise e Desenvolvimento de Sistemas no Senac.
 <h3>🛠️ Ferramentas de Desenvolvimento e Aprendizagem</h3>
 
 <div>
