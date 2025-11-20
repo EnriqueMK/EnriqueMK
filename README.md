@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-## Olá! Eu sou o Enrique. Atualmente curso Análise e Desenvolvimento de Sistemas. ![](https://visitor-badge.glitch.me/badge?page_id=fineanmol)
+## Olá! Eu sou o Enrique. Atualmente curso Análise e Desenvolvimento de Sistemas. ![](https://visitor-badge.glitch.me/badge?page_id=fineanmol&cache_bust=1)
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
