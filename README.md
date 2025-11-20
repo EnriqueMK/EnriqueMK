@@ -9,8 +9,14 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-## Olá! Eu sou o Enrique. Atualmente curso Análise e Desenvolvimento de Sistemas. ![](https://visitor-badge.glitch.me/badge?page_id=fineanmol&cache_bust=1)
+## Olá! Eu sou o Enrique. Atualmente curso Análise e Desenvolvimento de Sistemas. 👋
+**`Desenvolvedor Back-End`**
 
+Olá, meu nome é Enrique, tenho 20 anos e atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Senac. Sou apaixonado por programação, com foco na carreira de desenvolvedor back-end, e estou em constante aprendizado para evoluir e aprimorar minhas habilidades a cada dia.
+
+---
+
+### 🤖 Linguagens e Tecnologias
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -22,13 +28,27 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
-<div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Desktop-2B3137?style=for-the-badge&logo=github-desktop&logoColor=white">
 </div>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=enriquemk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
+
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquemk&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=10" 
+  />
+</p>
