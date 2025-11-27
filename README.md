@@ -40,8 +40,7 @@ Olá, meu nome é Enrique, tenho 20 anos e atualmente curso Análise e Desenvolv
 </div>
 
 ---
-
-## 📊 Estatísticas
+<br>
 
 <div align="center">
   <img 
