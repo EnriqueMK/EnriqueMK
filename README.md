@@ -25,7 +25,7 @@
 </div>
 
 
-## Olá! Eu sou o Enrique, aluno de Análise e Desenvolvimento de Sistemas 👋
+## Olá! Eu sou o Enrique, estudante de Análise e Desenvolvimento de Sistemas 👋
 **`Analista de Dados`**
 
 Tenho 20 anos e atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Senac. Além da faculdade também atuo como estagiário em dados no maior banco da américa latina, Itaú 🧡.
