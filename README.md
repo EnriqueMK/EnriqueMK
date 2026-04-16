@@ -26,7 +26,7 @@
 
 
 ## Olá! Eu sou o Enrique, estudante de Análise e Desenvolvimento de Sistemas 👋
-**`Analista de Dados`**
+**`Estágiario em Analise de Dados`**
 
 Tenho 20 anos e atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Senac. Além da faculdade também atuo como estagiário em dados no maior banco da américa latina, Itaú 🧡.
 Sou apaixonado por programação, com foco na carreira back-end e, estou em constante aprendizado para evoluir e aprimorar minhas habilidades a cada dia.
